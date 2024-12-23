@@ -35,13 +35,13 @@ while True:
         time.sleep(3)
         pyautogui.scroll(-1000)
         time.sleep(2)
+    else:
+
     
     # if length_extracted_list//3 > 3:
     #     winsound.Beep(450, 200)
     #     if keyboard.is_pressed("x"):
     #         pause = True
-    time.sleep(length_extracted_list / 3)
-
 
     #     pyautogui.scroll(-1000)
     #     time.sleep(1)
